@@ -1,7 +1,7 @@
 # PD_one_over_f
 This repository contains scripts for the estimation of MEG 1/f-exponent's dynamics in Parkinson's disease patients and healthy controls presented in the manuscript:
 
-Helson, P., Vinding, M. C., Lundqvist, Svenningsson, P. & Kumar, A. (2022). Cortex-wide topography of 1/f-exponent in Parkinson’s disease. *Preprint version very soon.*
+Helson, P., Lundqvist, D., Svenningsson, P., Vinding, M. C. & Kumar, A. (2022). Cortex-wide topography of 1/f-exponent in Parkinson’s disease. *Preprint version very soon.*
 
 For more information about procedure, please refer to the paper.
 
